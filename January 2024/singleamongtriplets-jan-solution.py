@@ -13,7 +13,7 @@ class Solution:
         Returns:
         int: The element that appears only once in the array.
         """
-        
+
         # Initialize ones and twos
         ones = 0
         twos = 0
